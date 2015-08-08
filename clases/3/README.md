@@ -10,5 +10,4 @@
     + pwd
     + pwd
     + Comando Git
-
-Crear cuenta [Github] (http://github.com)
+- Crear cuenta [Github] (http://github.com)
