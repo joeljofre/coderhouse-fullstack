@@ -1,0 +1,15 @@
+.container-parametros {
+	background-color: #E6E6E6;
+    padding: 30px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+
+.conteiner-fieldset {
+	display: block;
+	text-align: center;
+}
+
+.text-label {
+	padding: 1px;
+}

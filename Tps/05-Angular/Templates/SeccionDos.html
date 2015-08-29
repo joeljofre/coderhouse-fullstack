@@ -1,0 +1,13 @@
+
+<input type="text" ng-model="busqueda">
+
+<button ng-click="buscar()">Buscar</button>
+
+<section class="Result">
+	<article ng-repeat="item in resultados">
+		<h1>{{producto.tittle}}</h1>
+		<h1>{{producto.price}}</h1>
+		<h2> Seller ID: {{producto.seller.id}}</h2>
+		<img src="{{}}">
+	</article>
+</section>
